@@ -1,7 +1,7 @@
 ---
 title: "QQQQQQQQQQQQ"
 description: "Image of a bunch of 12 letter long words that start with Q floating in an 2.5D environment."
-pubDate: "Jul 22 2022"
+pubDate: "2025"
 heroImage: "/QQQQQQQQQQQQSS.png"
 ---
 
