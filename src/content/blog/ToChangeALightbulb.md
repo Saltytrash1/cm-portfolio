@@ -1,5 +1,5 @@
 ---
-title: "To Change A Lightbubl"
+title: "To Change A Lightbulb"
 description: ""
 pubDate: "2025"
 heroImage: "/ToChangeALightBulbSS.png"
